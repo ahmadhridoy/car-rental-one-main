@@ -25,8 +25,8 @@ const RequireCar = () => {
                 className="max-w-[50px] h-auto"
               />
               <div>
-                <p className="text-lg">Phone: +8801638-719578</p>
-                <p className="text-lg">Email: 11shafayet@gmail.com</p>
+                <p className="text-lg">Phone: +8801724-037184</p>
+                <p className="text-lg">Email: bodoruddin.syl1@gmail.com</p>
               </div>
             </div>
           </div>

@@ -146,7 +146,7 @@ const SingleCar = () => {
                       <input
                         id="email"
                         type="email"
-                        placeholder="11shafayet@gmail.com"
+                        placeholder="bodoruddin.syl1@gmail.com"
                         required
                         className="w-full bg-transparent border border-white border-opacity-45 rounded-md h-12 mt-2 px-3 py-2"
                       />
@@ -160,7 +160,7 @@ const SingleCar = () => {
                         id="phone"
                         type="tel"
                         required
-                        placeholder="+8801638-719578"
+                        placeholder="+8801724-037184"
                         className="w-full bg-transparent border border-white border-opacity-45 rounded-md h-12 mt-2 px-3 py-2"
                       />
                     </div>
